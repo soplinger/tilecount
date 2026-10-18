@@ -1,0 +1,10 @@
+# Kitchen re-tile: oak planks laid in a half bond
+tile Oak-Plank 200x1200 mm
+grout 3 mm
+bond half
+waste 10%
+box 10 29.90
+
+room Kitchen 3.2mx2.5m
+room Utility 1.8mx1.2m
+room Hall 0.9mx2.4m
